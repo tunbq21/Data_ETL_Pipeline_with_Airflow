@@ -7,3 +7,4 @@
 {"timestamp":"2025-08-26T18:11:10.573568","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_transform_load.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-26T18:11:41.339476","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_transform_load.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-26T18:12:12.130391","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_transform_load.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-26T18:12:42.974793","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_transform_load.py","logger":"airflow.models.dagbag.DagBag"}

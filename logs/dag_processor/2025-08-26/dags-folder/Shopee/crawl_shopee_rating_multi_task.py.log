@@ -7,3 +7,4 @@
 {"timestamp":"2025-08-26T18:11:10.527253","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_rating_multi_task.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-26T18:11:41.292217","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_rating_multi_task.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-26T18:12:12.081535","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_rating_multi_task.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-26T18:12:42.928443","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_rating_multi_task.py","logger":"airflow.models.dagbag.DagBag"}
