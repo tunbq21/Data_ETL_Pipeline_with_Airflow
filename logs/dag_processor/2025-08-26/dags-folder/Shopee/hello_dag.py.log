@@ -8,3 +8,6 @@
 {"timestamp":"2025-08-26T18:11:42.535448","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/hello_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-26T18:12:13.341013","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/hello_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-26T18:12:44.157673","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/hello_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-26T18:13:15.126165","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/hello_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-26T18:13:45.617702","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/hello_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-26T18:14:16.107048","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/hello_dag.py","logger":"airflow.models.dagbag.DagBag"}
