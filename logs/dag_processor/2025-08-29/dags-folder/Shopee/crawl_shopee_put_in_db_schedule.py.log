@@ -40,3 +40,4 @@
 {"timestamp":"2025-08-29T05:21:02.716454","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_put_in_db_schedule.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-29T05:21:33.364340","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_put_in_db_schedule.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-29T05:22:04.094404","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_put_in_db_schedule.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T05:22:34.782920","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_put_in_db_schedule.py","logger":"airflow.models.dagbag.DagBag"}

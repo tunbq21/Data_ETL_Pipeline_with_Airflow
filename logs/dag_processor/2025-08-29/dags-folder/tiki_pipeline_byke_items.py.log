@@ -40,3 +40,4 @@
 {"timestamp":"2025-08-29T05:21:02.517598","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/tiki_pipeline_byke_items.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-29T05:21:33.097408","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/tiki_pipeline_byke_items.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-29T05:22:03.826206","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/tiki_pipeline_byke_items.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-29T05:22:34.583894","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/tiki_pipeline_byke_items.py","logger":"airflow.models.dagbag.DagBag"}
