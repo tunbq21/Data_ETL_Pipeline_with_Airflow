@@ -11,7 +11,6 @@ import psycopg2
 RAW_DIR = "/opt/airflow/data/raw"
 PROCESSED_DIR = "/opt/airflow/data/processed"
 
-
 # Crawl Task
 def crawl_data():
     url = "https://shopee.vn/api/v2/item/get_ratings?filter=0&flag=1&limit=2&offset=0&type=0&exclude_filter=1&filter_size=0&fold_filter=0&relevant_reviews=false&request_source=2&tag_filter=&variation_filters=&fe_toggle=%5B2%2C3%5D&shopid=487028617&itemid=29911154536&preferred_item_item_id=29911154536&preferred_item_shop_id=487028617&preferred_item_include_type=1"
