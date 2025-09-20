@@ -7,6 +7,8 @@ import csv
 import os
 import psycopg2
 
+
+
 # Đường dẫn thư mục
 RAW_DIR = "/opt/airflow/data/raw"
 PROCESSED_DIR = "/opt/airflow/data/processed"
