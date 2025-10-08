@@ -80,6 +80,7 @@ def transform_data():
             writer.writerow([r.get("comment", ""), r.get("rating_star", "")])
 
     print(f"Saved processed CSV to {csv_path}")
+    
 
 def load_data():
 
