@@ -7,7 +7,6 @@ from dags.anonymous_path import Path_Folder
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-
 url = "https://tiki.vn/api/personalish/v1/blocks/listings?limit=10&sort=top_seller&page=1&urlKey=xe-may&category=8597"
 
 headers = {
