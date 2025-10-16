@@ -1,0 +1,3 @@
+{"timestamp":"2025-10-16T10:49:20.515869","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/tutorial_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-16T10:50:17.547313","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/tutorial_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-16T10:50:47.782314","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/tutorial_dag.py","logger":"airflow.models.dagbag.DagBag"}
