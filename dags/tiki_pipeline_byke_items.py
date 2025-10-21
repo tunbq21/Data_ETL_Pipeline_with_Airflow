@@ -57,6 +57,7 @@ item_tags = [
     "impression_info"
 ]
 
+
 type_map = {
     "sku": "VARCHAR(50)",
     "name": "TEXT",
