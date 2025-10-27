@@ -135,7 +135,6 @@ def load_data():
             row_data = []
             for tag in item_tag:
                 value = row.get(tag, "")
-                
                 # Xử lý các kiểu dữ liệu đặc biệt
                 if tag in ["price", "list_price", "original_price", "discount", "seller_product_id", "productset_id"]:
                     row_data.append(int(value) if value and value != "" else None)
