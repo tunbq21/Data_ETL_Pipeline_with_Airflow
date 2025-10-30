@@ -161,8 +161,7 @@ def load_data():
             
             data_to_insert.append(tuple(row_data))
     
-    # Sử dụng execute_values để insert nhiều rows cùng lúc (hiệu quả hơn)
-    if data_to_insert:
+        if data_to_insert:
         from psycopg2.extras import execute_values
         try:
             execute_values(
