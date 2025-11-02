@@ -161,6 +161,7 @@ def load_data():
             
             data_to_insert.append(tuple(row_data))
     
+    
     if data_to_insert:
         from psycopg2.extras import execute_values
         try:
