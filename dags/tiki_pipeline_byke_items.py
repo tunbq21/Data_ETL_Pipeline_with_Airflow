@@ -118,7 +118,6 @@ def load_data():
     if not files:
         raise Exception("No processed files found")
     latest_file = os.path.join(Path_Folder.processed_folder_path, files[-1])
-    
     cursor = conn.cursor()
     
     # Tạo bảng nếu chưa tồn tại
