@@ -104,7 +104,6 @@ ON CONFLICT (id) DO UPDATE SET
 
 
 command_load = [command_load_0, command_load_1]
-
 #===================================================================================
 def crawl_data():
     Repo.crawl(Path_Folder.raw_folder_path)
