@@ -1,0 +1,1893 @@
+{
+  "block": {
+    "code": "tiki_listing",
+    "title": "Tiki Listing",
+    "icon": ""
+  },
+  "data": [
+    {
+      "id": 276641167,
+      "sku": "5456683770998",
+      "name": "Xe máy Honda Vision 2025 Cao Cấp",
+      "url_key": "xe-may-honda-vision-2025-cao-cap-p276641167",
+      "url_path": "xe-may-honda-vision-2025-cao-cap-p276641167.html?spid=276641171",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "Honda",
+      "short_description": "",
+      "price": 33650000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Nhận hàng tại cửa hàng",
+          "type": "delivery_info_badge"
+        },
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "installment",
+          "placement": "under_rating",
+          "text": "Trả góp",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "option_color",
+          "placement": "under_rating",
+          "text": "Nhiều màu",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "HONDA",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        },
+        {
+          "arr_text": [
+            {
+              "value": "2 Màu"
+            }
+          ],
+          "code": "variant_count",
+          "placement": "under_rating_v2",
+          "text_color": "#808089",
+          "type": "text_box"
+        }
+      ],
+      "discount": 950000,
+      "discount_rate": 3,
+      "rating_average": 4.5,
+      "review_count": 2,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/82/fe/5e/8e9697583135bb746eb554109ff5a626.png",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 554,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 276641171,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 18",
+        "value": 18
+      },
+      "tiki_live": null,
+      "original_price": 34600000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-GC76dTdlZoAk5kk7-EurEiJuB",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 8597,
+            "delivery_info_badge_text": "Nhận hàng tại cửa hàng",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {},
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 276641167,
+            "params": {
+              "_v": "filter_revamp",
+              "category": "8597",
+              "limit": "10",
+              "page": "1",
+              "sort": "top_seller",
+              "urlKey": "xe-may"
+            },
+            "position": 1,
+            "price": 34600000,
+            "quantity_sold": 18,
+            "rating": 4.5,
+            "request_id": "GC76dTdlZoAk5kk7",
+            "spid": 276641171,
+            "tiki_verified": 0
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8594/8597/11878",
+      "product_reco_score": 0,
+      "seller_id": 18792,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 18,
+          "brand_name": "Honda",
+          "category_l1_name": "Ô Tô - Xe Máy - Xe Đạp",
+          "category_l2_name": "Xe máy",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3356299,3355891",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": true,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "master_product_sku": "8810246964852",
+          "number_of_reviews": 2,
+          "origin": "Nhật Bản / Việt Nam",
+          "partner_rewards_amount": 0,
+          "price": 34600000,
+          "primary_category_name": "Xe tay ga",
+          "product_rating": 4.5,
+          "search_rank": 0,
+          "seller_id": 18792,
+          "seller_product_id": 276641171,
+          "seller_product_sku": "5456683770998",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 0,
+          "tiki_verified": 0,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": true
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/f7/9e/83/ab28365ea395893fe5abac88b5103444.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ]
+    },
+    {
+      "id": 276626995,
+      "sku": "2389124024582",
+      "name": "Xe Máy Honda Vision 2025 - Phiên Bản Thể Thao",
+      "url_key": "xe-may-honda-vision-2025-phien-ban-the-thao-p276626995",
+      "url_path": "xe-may-honda-vision-2025-phien-ban-the-thao-p276626995.html?spid=276626997",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "Honda",
+      "short_description": "",
+      "price": 37709000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Nhận hàng tại cửa hàng",
+          "type": "delivery_info_badge"
+        },
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "video_icon",
+          "icon": "https://salt.tikicdn.com/ts/upload/d5/f3/6f/fdd40db52ff4afe497d0c2240dcfd25b.png",
+          "icon_height": 28,
+          "icon_width": 28,
+          "placement": "bottom_right",
+          "type": "icon_badge"
+        },
+        {
+          "code": "installment",
+          "placement": "under_rating",
+          "text": "Trả góp",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "option_color",
+          "placement": "under_rating",
+          "text": "Nhiều màu",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "HONDA",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        },
+        {
+          "arr_text": [
+            {
+              "value": "2 Màu sắc"
+            }
+          ],
+          "code": "variant_count",
+          "placement": "under_rating_v2",
+          "text_color": "#808089",
+          "type": "text_box"
+        }
+      ],
+      "discount": 1050000,
+      "discount_rate": 3,
+      "rating_average": 5,
+      "review_count": 15,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/06/fc/7a/8df9644f0baec5a82d05cc89e7dcde32.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 554,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 276626997,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 32",
+        "value": 32
+      },
+      "tiki_live": null,
+      "original_price": 38759000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-GC76dTdlZoAk5kk7-IgiKOWAR",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 8597,
+            "delivery_info_badge_text": "Nhận hàng tại cửa hàng",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {},
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 276626995,
+            "params": {
+              "_v": "filter_revamp",
+              "category": "8597",
+              "limit": "10",
+              "page": "1",
+              "sort": "top_seller",
+              "urlKey": "xe-may"
+            },
+            "position": 2,
+            "price": 38759000,
+            "quantity_sold": 32,
+            "rating": 5,
+            "request_id": "GC76dTdlZoAk5kk7",
+            "spid": 276626997,
+            "tiki_verified": 0
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8594/8597/11878",
+      "product_reco_score": 0,
+      "seller_id": 180553,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 32,
+          "brand_name": "Honda",
+          "category_l1_name": "Ô Tô - Xe Máy - Xe Đạp",
+          "category_l2_name": "Xe máy",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3356629,3355891",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": true,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "2358079101829",
+          "number_of_reviews": 15,
+          "origin": "Việt Nam",
+          "partner_rewards_amount": 0,
+          "price": 38759000,
+          "primary_category_name": "Xe tay ga",
+          "product_rating": 5,
+          "search_rank": 0,
+          "seller_id": 180553,
+          "seller_product_id": 276626997,
+          "seller_product_sku": "2389124024582",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 0,
+          "tiki_verified": 0,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": true
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/f7/9e/83/ab28365ea395893fe5abac88b5103444.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ]
+    },
+    {
+      "id": 276626834,
+      "sku": "8731508775416",
+      "name": "Xe Máy Honda Vision 2025 - Phiên Bản Đặc Biệt",
+      "url_key": "xe-may-honda-vision-2025-phien-ban-da-c-bie-t-p276626834",
+      "url_path": "xe-may-honda-vision-2025-phien-ban-da-c-bie-t-p276626834.html?spid=276626836",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "Honda",
+      "short_description": "",
+      "price": 35658000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Nhận hàng tại cửa hàng",
+          "type": "delivery_info_badge"
+        },
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "video_icon",
+          "icon": "https://salt.tikicdn.com/ts/upload/d5/f3/6f/fdd40db52ff4afe497d0c2240dcfd25b.png",
+          "icon_height": 28,
+          "icon_width": 28,
+          "placement": "bottom_right",
+          "type": "icon_badge"
+        },
+        {
+          "code": "installment",
+          "placement": "under_rating",
+          "text": "Trả góp",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "option_color",
+          "placement": "under_rating",
+          "text": "Nhiều màu",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "HONDA",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        },
+        {
+          "arr_text": [
+            {
+              "value": "1 Màu sắc"
+            }
+          ],
+          "code": "variant_count",
+          "placement": "under_rating_v2",
+          "text_color": "#808089",
+          "type": "text_box"
+        }
+      ],
+      "discount": 1050000,
+      "discount_rate": 3,
+      "rating_average": 5,
+      "review_count": 9,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/71/72/9f/2bdefce014517540f2bdecc4bc80ee47.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 554,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 276626836,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 25",
+        "value": 25
+      },
+      "tiki_live": null,
+      "original_price": 36708000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-GC76dTdlZoAk5kk7-1d9Z3eQq",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 8597,
+            "delivery_info_badge_text": "Nhận hàng tại cửa hàng",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {},
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 276626834,
+            "params": {
+              "_v": "filter_revamp",
+              "category": "8597",
+              "limit": "10",
+              "page": "1",
+              "sort": "top_seller",
+              "urlKey": "xe-may"
+            },
+            "position": 3,
+            "price": 36708000,
+            "quantity_sold": 25,
+            "rating": 5,
+            "request_id": "GC76dTdlZoAk5kk7",
+            "spid": 276626836,
+            "tiki_verified": 0
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8594/8597/11878",
+      "product_reco_score": 0,
+      "seller_id": 180553,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 25,
+          "brand_name": "Honda",
+          "category_l1_name": "Ô Tô - Xe Máy - Xe Đạp",
+          "category_l2_name": "Xe máy",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3356629,3355891",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": true,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "4388975753129",
+          "number_of_reviews": 9,
+          "origin": "Việt Nam",
+          "partner_rewards_amount": 0,
+          "price": 36708000,
+          "primary_category_name": "Xe tay ga",
+          "product_rating": 5,
+          "search_rank": 0,
+          "seller_id": 180553,
+          "seller_product_id": 276626836,
+          "seller_product_sku": "8731508775416",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 0,
+          "tiki_verified": 0,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": true
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/f7/9e/83/ab28365ea395893fe5abac88b5103444.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ]
+    },
+    {
+      "id": 276626812,
+      "sku": "7649022091829",
+      "name": "Xe máy Honda Vision 2025 Đặc Biệt  ",
+      "url_key": "xe-may-honda-vision-2025-dac-biet-p276626812",
+      "url_path": "xe-may-honda-vision-2025-dac-biet-p276626812.html?spid=276626813",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "Honda",
+      "short_description": "",
+      "price": 36070000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Nhận hàng tại cửa hàng",
+          "type": "delivery_info_badge"
+        },
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "installment",
+          "placement": "under_rating",
+          "text": "Trả góp",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "HONDA",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        }
+      ],
+      "discount": 950000,
+      "discount_rate": 3,
+      "rating_average": 5,
+      "review_count": 3,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/89/23/0a/3cba3ae1ecd2c9928d678cf502430493.png",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 554,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 276626813,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 15",
+        "value": 15
+      },
+      "tiki_live": null,
+      "original_price": 37020000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-GC76dTdlZoAk5kk7-MkEAmTLj",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 8597,
+            "delivery_info_badge_text": "Nhận hàng tại cửa hàng",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {},
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 276626812,
+            "params": {
+              "_v": "filter_revamp",
+              "category": "8597",
+              "limit": "10",
+              "page": "1",
+              "sort": "top_seller",
+              "urlKey": "xe-may"
+            },
+            "position": 4,
+            "price": 37020000,
+            "quantity_sold": 15,
+            "rating": 5,
+            "request_id": "GC76dTdlZoAk5kk7",
+            "spid": 276626813,
+            "tiki_verified": 0
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8594/8597/11878",
+      "product_reco_score": 0,
+      "seller_id": 18792,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 15,
+          "brand_name": "Honda",
+          "category_l1_name": "Ô Tô - Xe Máy - Xe Đạp",
+          "category_l2_name": "Xe máy",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3356299,3355891",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": true,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "7446391151558",
+          "number_of_reviews": 3,
+          "origin": "Nhật Bản / Việt Nam",
+          "partner_rewards_amount": 0,
+          "price": 37020000,
+          "primary_category_name": "Xe tay ga",
+          "product_rating": 5,
+          "search_rank": 0,
+          "seller_id": 18792,
+          "seller_product_id": 276626813,
+          "seller_product_sku": "7649022091829",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 0,
+          "tiki_verified": 0,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/f7/9e/83/ab28365ea395893fe5abac88b5103444.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ]
+    },
+    {
+      "id": 276626642,
+      "sku": "7165094562041",
+      "name": "Xe Máy Honda Vision 2025 - Phiên Bản Cao Cấp",
+      "url_key": "xe-may-honda-vision-2025-phien-ban-cao-ca-p-p276626642",
+      "url_path": "xe-may-honda-vision-2025-phien-ban-cao-ca-p-p276626642.html?spid=276626646",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "Honda",
+      "short_description": "",
+      "price": 33606000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Nhận hàng tại cửa hàng",
+          "type": "delivery_info_badge"
+        },
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "video_icon",
+          "icon": "https://salt.tikicdn.com/ts/upload/d5/f3/6f/fdd40db52ff4afe497d0c2240dcfd25b.png",
+          "icon_height": 28,
+          "icon_width": 28,
+          "placement": "bottom_right",
+          "type": "icon_badge"
+        },
+        {
+          "code": "installment",
+          "placement": "under_rating",
+          "text": "Trả góp",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "option_color",
+          "placement": "under_rating",
+          "text": "Nhiều màu",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "HONDA",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        },
+        {
+          "arr_text": [
+            {
+              "value": "2 Màu sắc"
+            }
+          ],
+          "code": "variant_count",
+          "placement": "under_rating_v2",
+          "text_color": "#808089",
+          "type": "text_box"
+        }
+      ],
+      "discount": 1050000,
+      "discount_rate": 3,
+      "rating_average": 5,
+      "review_count": 6,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2e/82/de/1568894cd4debd5e9f06d99a79fc4bbb.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 554,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 276626646,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 16",
+        "value": 16
+      },
+      "tiki_live": null,
+      "original_price": 34656000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-GC76dTdlZoAk5kk7-DkcEgNPc",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 8597,
+            "delivery_info_badge_text": "Nhận hàng tại cửa hàng",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {},
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 276626642,
+            "params": {
+              "_v": "filter_revamp",
+              "category": "8597",
+              "limit": "10",
+              "page": "1",
+              "sort": "top_seller",
+              "urlKey": "xe-may"
+            },
+            "position": 5,
+            "price": 34656000,
+            "quantity_sold": 16,
+            "rating": 5,
+            "request_id": "GC76dTdlZoAk5kk7",
+            "spid": 276626646,
+            "tiki_verified": 0
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8594/8597/11878",
+      "product_reco_score": 0,
+      "seller_id": 180553,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 16,
+          "brand_name": "Honda",
+          "category_l1_name": "Ô Tô - Xe Máy - Xe Đạp",
+          "category_l2_name": "Xe máy",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3356629,3355891",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": true,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "6257599278390",
+          "number_of_reviews": 6,
+          "origin": "Việt Nam",
+          "partner_rewards_amount": 0,
+          "price": 34656000,
+          "primary_category_name": "Xe tay ga",
+          "product_rating": 5,
+          "search_rank": 0,
+          "seller_id": 180553,
+          "seller_product_id": 276626646,
+          "seller_product_sku": "7165094562041",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 0,
+          "tiki_verified": 0,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": true
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/f7/9e/83/ab28365ea395893fe5abac88b5103444.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ]
+    },
+    {
+      "id": 276626620,
+      "sku": "2098005639979",
+      "name": "Xe máy Honda Vision 2025 Thể Thao",
+      "url_key": "xe-may-honda-vision-2025-the-thao-p276626620",
+      "url_path": "xe-may-honda-vision-2025-the-thao-p276626620.html?spid=276626624",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "Honda",
+      "short_description": "",
+      "price": 37500000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Nhận hàng tại cửa hàng",
+          "type": "delivery_info_badge"
+        },
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "installment",
+          "placement": "under_rating",
+          "text": "Trả góp",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "option_color",
+          "placement": "under_rating",
+          "text": "Nhiều màu",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "HONDA",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        },
+        {
+          "arr_text": [
+            {
+              "value": "2 Màu sắc"
+            }
+          ],
+          "code": "variant_count",
+          "placement": "under_rating_v2",
+          "text_color": "#808089",
+          "type": "text_box"
+        }
+      ],
+      "discount": 950000,
+      "discount_rate": 2,
+      "rating_average": 5,
+      "review_count": 2,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c3/b8/b6/766b7f76ac5b0654c2c85dd66bea953d.png",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 554,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 276626624,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 30",
+        "value": 30
+      },
+      "tiki_live": null,
+      "original_price": 38450000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-GC76dTdlZoAk5kk7-nEZ4SkGe",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 8597,
+            "delivery_info_badge_text": "Nhận hàng tại cửa hàng",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {},
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 276626620,
+            "params": {
+              "_v": "filter_revamp",
+              "category": "8597",
+              "limit": "10",
+              "page": "1",
+              "sort": "top_seller",
+              "urlKey": "xe-may"
+            },
+            "position": 6,
+            "price": 38450000,
+            "quantity_sold": 30,
+            "rating": 5,
+            "request_id": "GC76dTdlZoAk5kk7",
+            "spid": 276626624,
+            "tiki_verified": 0
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8594/8597/11878",
+      "product_reco_score": 0,
+      "seller_id": 18792,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 30,
+          "brand_name": "Honda",
+          "category_l1_name": "Ô Tô - Xe Máy - Xe Đạp",
+          "category_l2_name": "Xe máy",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3356299,3355891",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": true,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "3482156132507",
+          "number_of_reviews": 2,
+          "origin": "Nhật Bản / Việt Nam",
+          "partner_rewards_amount": 0,
+          "price": 38450000,
+          "primary_category_name": "Xe tay ga",
+          "product_rating": 5,
+          "search_rank": 0,
+          "seller_id": 18792,
+          "seller_product_id": 276626624,
+          "seller_product_sku": "2098005639979",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 0,
+          "tiki_verified": 0,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": true
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/f7/9e/83/ab28365ea395893fe5abac88b5103444.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ]
+    },
+    {
+      "id": 276626579,
+      "sku": "7131612221034",
+      "name": "Xe Máy Honda Vision 2025 - Phiên Bản Tiêu Chuẩn",
+      "url_key": "xe-may-honda-vision-2025-phien-ban-tieu-chua-n-p276626579",
+      "url_path": "xe-may-honda-vision-2025-phien-ban-tieu-chua-n-p276626579.html?spid=276626597",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "Honda",
+      "short_description": "",
+      "price": 30837000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Nhận hàng tại cửa hàng",
+          "type": "delivery_info_badge"
+        },
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "video_icon",
+          "icon": "https://salt.tikicdn.com/ts/upload/d5/f3/6f/fdd40db52ff4afe497d0c2240dcfd25b.png",
+          "icon_height": 28,
+          "icon_width": 28,
+          "placement": "bottom_right",
+          "type": "icon_badge"
+        },
+        {
+          "code": "installment",
+          "placement": "under_rating",
+          "text": "Trả góp",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "option_color",
+          "placement": "under_rating",
+          "text": "Nhiều màu",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "HONDA",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        },
+        {
+          "arr_text": [
+            {
+              "value": "1 Màu sắc"
+            }
+          ],
+          "code": "variant_count",
+          "placement": "under_rating_v2",
+          "text_color": "#808089",
+          "type": "text_box"
+        }
+      ],
+      "discount": 1050000,
+      "discount_rate": 3,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c9/78/71/629d1d6144d7f40ef33e2c9f9e32ca1d.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 554,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 276626597,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": null,
+      "tiki_live": null,
+      "original_price": 31887000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-GC76dTdlZoAk5kk7-5AbkwDGf",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 8597,
+            "delivery_info_badge_text": "Nhận hàng tại cửa hàng",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {},
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 276626579,
+            "params": {
+              "_v": "filter_revamp",
+              "category": "8597",
+              "limit": "10",
+              "page": "1",
+              "sort": "top_seller",
+              "urlKey": "xe-may"
+            },
+            "position": 7,
+            "price": 31887000,
+            "quantity_sold": 0,
+            "rating": 0,
+            "request_id": "GC76dTdlZoAk5kk7",
+            "spid": 276626597,
+            "tiki_verified": 0
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8594/8597/11878",
+      "product_reco_score": 0,
+      "seller_id": 180553,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 0,
+          "brand_name": "Honda",
+          "category_l1_name": "Ô Tô - Xe Máy - Xe Đạp",
+          "category_l2_name": "Xe máy",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3356629,3355891",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": true,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "master_product_sku": "4301645474122",
+          "number_of_reviews": 0,
+          "origin": "Việt Nam",
+          "partner_rewards_amount": 0,
+          "price": 31887000,
+          "primary_category_name": "Xe tay ga",
+          "product_rating": 0,
+          "search_rank": 0,
+          "seller_id": 180553,
+          "seller_product_id": 276626597,
+          "seller_product_sku": "7131612221034",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 0,
+          "tiki_verified": 0,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": true
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/f7/9e/83/ab28365ea395893fe5abac88b5103444.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ]
+    },
+    {
+      "id": 276626316,
+      "sku": "8041660795075",
+      "name": "Xe máy Honda Vision Tiêu Chuẩn 2025",
+      "url_key": "xe-may-honda-vision-tieu-chuan-2025-p276626316",
+      "url_path": "xe-may-honda-vision-tieu-chuan-2025-p276626316.html?spid=276626473",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "Honda",
+      "short_description": "",
+      "price": 30890000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Nhận hàng tại cửa hàng",
+          "type": "delivery_info_badge"
+        },
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "installment",
+          "placement": "under_rating",
+          "text": "Trả góp",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "option_color",
+          "placement": "under_rating",
+          "text": "Nhiều màu",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "HONDA",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        }
+      ],
+      "discount": 950000,
+      "discount_rate": 3,
+      "rating_average": 5,
+      "review_count": 2,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/82/16/33/5bacd54733f44a275201febd751ad6a7.png",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 554,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 276626473,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 8",
+        "value": 8
+      },
+      "tiki_live": null,
+      "original_price": 31840000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-GC76dTdlZoAk5kk7-R1TjFFyq",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 8597,
+            "delivery_info_badge_text": "Nhận hàng tại cửa hàng",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {},
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 276626316,
+            "params": {
+              "_v": "filter_revamp",
+              "category": "8597",
+              "limit": "10",
+              "page": "1",
+              "sort": "top_seller",
+              "urlKey": "xe-may"
+            },
+            "position": 8,
+            "price": 31840000,
+            "quantity_sold": 8,
+            "rating": 5,
+            "request_id": "GC76dTdlZoAk5kk7",
+            "spid": 276626473,
+            "tiki_verified": 0
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8594/8597/11878",
+      "product_reco_score": 0,
+      "seller_id": 18792,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 8,
+          "brand_name": "Honda",
+          "category_l1_name": "Ô Tô - Xe Máy - Xe Đạp",
+          "category_l2_name": "Xe máy",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3356299,3355891",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": true,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "7420790083719",
+          "number_of_reviews": 2,
+          "origin": "Nhật Bản / Việt Nam",
+          "partner_rewards_amount": 0,
+          "price": 31840000,
+          "primary_category_name": "Xe tay ga",
+          "product_rating": 5,
+          "search_rank": 0,
+          "seller_id": 18792,
+          "seller_product_id": 276626473,
+          "seller_product_sku": "8041660795075",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 0,
+          "tiki_verified": 0,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/f7/9e/83/ab28365ea395893fe5abac88b5103444.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ]
+    },
+    {
+      "id": 276109996,
+      "sku": "3916131607416",
+      "name": "Xe máy Honda LEAD 2025",
+      "url_key": "xe-may-honda-lead-2025-p276109996",
+      "url_path": "xe-may-honda-lead-2025-p276109996.html?spid=276131396",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "Honda",
+      "short_description": "",
+      "price": 43700000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Nhận hàng tại cửa hàng",
+          "type": "delivery_info_badge"
+        },
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "installment",
+          "placement": "under_rating",
+          "text": "Trả góp",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "option_color",
+          "placement": "under_rating",
+          "text": "Nhiều màu",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "HONDA",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        },
+        {
+          "arr_text": [
+            {
+              "value": "1 Màu sắc"
+            },
+            {
+              "value": "1 Phiên bản"
+            }
+          ],
+          "code": "variant_count",
+          "placement": "under_rating_v2",
+          "text_color": "#808089",
+          "type": "text_box"
+        }
+      ],
+      "discount": 1800000,
+      "discount_rate": 4,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/89/df/4d/58f03379d005590b99057f30a7a7a4ff.png",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 554,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 276131396,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 5",
+        "value": 5
+      },
+      "tiki_live": null,
+      "original_price": 45500000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-GC76dTdlZoAk5kk7-DJZUo6jh",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 8597,
+            "delivery_info_badge_text": "Nhận hàng tại cửa hàng",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {},
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 276109996,
+            "params": {
+              "_v": "filter_revamp",
+              "category": "8597",
+              "limit": "10",
+              "page": "1",
+              "sort": "top_seller",
+              "urlKey": "xe-may"
+            },
+            "position": 9,
+            "price": 45500000,
+            "quantity_sold": 5,
+            "rating": 0,
+            "request_id": "GC76dTdlZoAk5kk7",
+            "spid": 276131396,
+            "tiki_verified": 0
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8594/8597/11878",
+      "product_reco_score": 0,
+      "seller_id": 134658,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 5,
+          "brand_name": "Honda",
+          "category_l1_name": "Ô Tô - Xe Máy - Xe Đạp",
+          "category_l2_name": "Xe máy",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3355877",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": true,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "2785274295518",
+          "number_of_reviews": 0,
+          "origin": "Việt Nam",
+          "partner_rewards_amount": 0,
+          "price": 45500000,
+          "primary_category_name": "Xe tay ga",
+          "product_rating": 0,
+          "search_rank": 0,
+          "seller_id": 134658,
+          "seller_product_id": 276131396,
+          "seller_product_sku": "3916131607416",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 0,
+          "tiki_verified": 0,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": true
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/f7/9e/83/ab28365ea395893fe5abac88b5103444.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ]
+    },
+    {
+      "id": 275616605,
+      "sku": "5572815734069",
+      "name": "Xe máy Honda Wave Alpha 2025 Phiên bản Cổ Điển",
+      "url_key": "xe-may-honda-wave-alpha-2025-phien-ban-co-dien-p275616605",
+      "url_path": "xe-may-honda-wave-alpha-2025-phien-ban-co-dien-p275616605.html?spid=275617425",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "Honda",
+      "short_description": "",
+      "price": 20620000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Nhận hàng tại cửa hàng",
+          "type": "delivery_info_badge"
+        },
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "installment",
+          "placement": "under_rating",
+          "text": "Trả góp",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "option_color",
+          "placement": "under_rating",
+          "text": "Nhiều màu",
+          "type": "under_rating_text"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "HONDA",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        },
+        {
+          "arr_text": [
+            {
+              "value": "1 Màu"
+            }
+          ],
+          "code": "variant_count",
+          "placement": "under_rating_v2",
+          "text_color": "#808089",
+          "type": "text_box"
+        }
+      ],
+      "discount": 130000,
+      "discount_rate": 1,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7a/5e/bf/9449202d9fa255b6e0849f4c5d2ba9d0.png",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 554,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 275617425,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 22",
+        "value": 22
+      },
+      "tiki_live": null,
+      "original_price": 20750000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-GC76dTdlZoAk5kk7-AWmLWPXl",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 8597,
+            "delivery_info_badge_text": "Nhận hàng tại cửa hàng",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {},
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 275616605,
+            "params": {
+              "_v": "filter_revamp",
+              "category": "8597",
+              "limit": "10",
+              "page": "1",
+              "sort": "top_seller",
+              "urlKey": "xe-may"
+            },
+            "position": 10,
+            "price": 20750000,
+            "quantity_sold": 22,
+            "rating": 5,
+            "request_id": "GC76dTdlZoAk5kk7",
+            "spid": 275617425,
+            "tiki_verified": 0
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8594/8597/11882",
+      "product_reco_score": 0,
+      "seller_id": 18792,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 22,
+          "brand_name": "Honda",
+          "category_l1_name": "Ô Tô - Xe Máy - Xe Đạp",
+          "category_l2_name": "Xe máy",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3356298,3355359",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": true,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": false,
+          "joined_strategy_rerank": false,
+          "master_product_sku": "8134744058010",
+          "number_of_reviews": 1,
+          "origin": "Việt Nam",
+          "partner_rewards_amount": 0,
+          "price": 20750000,
+          "primary_category_name": "Xe số",
+          "product_rating": 5,
+          "search_rank": 0,
+          "seller_id": 18792,
+          "seller_product_id": 275617425,
+          "seller_product_sku": "5572815734069",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 0,
+          "tiki_verified": 0,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": true
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/f7/9e/83/ab28365ea395893fe5abac88b5103444.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ]
+    }
+  ],
+  "paging": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 44,
+    "per_page": 10,
+    "to": 10,
+    "total": 435
+  },
+  "filters": [],
+  "amplitude": {
+    "model_name": "NoLtrModel",
+    "number_of_brand_store_ad": "0",
+    "number_of_display_ad": "0",
+    "number_of_sponsored_product_ad": "0",
+    "search_experiment_variant": "",
+    "search_location": "VN039006001",
+    "search_request": "http://tiki.vn/full/v2/products?_v=filter_revamp&category=8597&category=8597&limit=10&limit=10&page=1&page=1&sort=top_seller&sort=top_seller&urlKey=xe-may",
+    "selected_sort_option": "top_seller",
+    "seller_product_sku": "5456683770998,2389124024582,8731508775416,7649022091829,7165094562041,2098005639979,7131612221034,8041660795075,3916131607416,5572815734069",
+    "user_strategy": "filter_revamp"
+  },
+  "sort_options": [
+    {
+      "display_value": "Phổ biến",
+      "query_value": "default",
+      "selected": false
+    },
+    {
+      "display_value": "Bán chạy",
+      "query_value": "top_seller",
+      "selected": true
+    },
+    {
+      "display_value": "Hàng mới",
+      "query_value": "newest",
+      "selected": false
+    },
+    {
+      "display_value": "Giá thấp đến cao",
+      "query_value": "price,asc",
+      "selected": false
+    },
+    {
+      "display_value": "Giá cao đến thấp",
+      "query_value": "price,desc",
+      "selected": false
+    }
+  ],
+  "widgets": [],
+  "experiment_variants": {},
+  "model_debug": null,
+  "trace_id": "GC76dTdlZoAk5kk7",
+  "items": []
+}
