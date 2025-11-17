@@ -240,3 +240,6 @@
 {"timestamp":"2025-11-14T16:59:39.974691","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_put_in_db_schedule.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-11-14T17:00:11.524435","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_put_in_db_schedule.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-11-14T17:00:42.835029","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_put_in_db_schedule.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-14T17:01:14.220922","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_put_in_db_schedule.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-14T17:01:45.648770","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_put_in_db_schedule.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-14T17:02:17.066309","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_put_in_db_schedule.py","logger":"airflow.models.dagbag.DagBag"}

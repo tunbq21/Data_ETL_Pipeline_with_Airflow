@@ -240,3 +240,6 @@
 {"timestamp":"2025-11-14T16:59:39.898027","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_transform_load.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-11-14T17:00:11.475413","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_transform_load.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-11-14T17:00:42.770614","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_transform_load.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-14T17:01:14.170586","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_transform_load.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-14T17:01:45.581591","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_transform_load.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-14T17:02:16.992447","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_transform_load.py","logger":"airflow.models.dagbag.DagBag"}

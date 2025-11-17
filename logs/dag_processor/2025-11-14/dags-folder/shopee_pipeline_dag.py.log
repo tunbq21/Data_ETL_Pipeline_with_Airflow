@@ -240,3 +240,6 @@
 {"timestamp":"2025-11-14T16:59:39.705973","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopee_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-11-14T17:00:11.264610","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopee_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-11-14T17:00:42.594306","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopee_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-14T17:01:14.028078","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopee_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-14T17:01:45.396952","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopee_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-14T17:02:16.836759","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopee_pipeline_dag.py","logger":"airflow.models.dagbag.DagBag"}
