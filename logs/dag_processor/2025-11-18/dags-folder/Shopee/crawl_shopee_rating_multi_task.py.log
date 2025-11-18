@@ -1,0 +1,5 @@
+{"timestamp":"2025-11-18T04:19:18.313166","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_rating_multi_task.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-18T04:19:49.040818","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_rating_multi_task.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-18T04:20:19.828344","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_rating_multi_task.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-18T04:20:50.240998","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_rating_multi_task.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-18T04:21:20.568468","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Shopee/crawl_shopee_rating_multi_task.py","logger":"airflow.models.dagbag.DagBag"}

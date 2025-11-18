@@ -1,0 +1,5 @@
+{"timestamp":"2025-11-18T04:19:17.824079","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/tiki_pipeline_byke_items.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-18T04:19:48.734204","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/tiki_pipeline_byke_items.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-18T04:20:19.678215","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/tiki_pipeline_byke_items.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-18T04:20:50.108340","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/tiki_pipeline_byke_items.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-18T04:21:20.439345","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/tiki_pipeline_byke_items.py","logger":"airflow.models.dagbag.DagBag"}
