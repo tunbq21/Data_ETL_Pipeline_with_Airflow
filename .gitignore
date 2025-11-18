@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+
+# Airflow SQLite DB
+airflow.db
+*.db
+
+# Virtual environment
+venv/
+.env
+
+# Docker
+*.env
+docker-compose.override.yml
+
+# Pytest cache
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
