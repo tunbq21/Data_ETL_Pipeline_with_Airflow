@@ -1,6 +1,3 @@
-
-
-
 class Path_Folder:
     processed_folder_path = "/opt/airflow/data/processed"
     raw_folder_path = "/opt/airflow/data/raw"
