@@ -5,3 +5,5 @@ class Path_Folder:
     def __init__(self):
         self.processed_folder_path = Path_Folder.processed_folder_path
         self.raw_folder_path = Path_Folder.raw_folder_path
+
+    #   path_folder = Path_Folder()
