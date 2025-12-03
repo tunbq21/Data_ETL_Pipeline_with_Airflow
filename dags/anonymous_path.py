@@ -7,4 +7,6 @@ class Path_Folder:
         self.raw_folder_path = Path_Folder.raw_folder_path
 
 
+# This class defines paths for processed and raw data folders.
+# It can be used to access these paths in an Airflow DAG.   
     #   path_folder = Path_Folder()
